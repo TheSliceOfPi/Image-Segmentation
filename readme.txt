@@ -8,7 +8,6 @@ cImage.py
 Earth.gif
 venus_fly_trap.gif
 imgK.gif
-Homework Cover Sheet ML-4.pdf
 MLHW4.Report.pdf
 readme.txt
 
