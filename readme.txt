@@ -1,5 +1,5 @@
 Edith Flores
-Homework 4: 
+K-Means Algorithm
 
 Files Submitted:
 seg.py
